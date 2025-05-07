@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Pandey</h1>
+<h1 align="center">Hi 👋, I'm Devesh Mishra</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey21" /> </p>
@@ -8,12 +8,12 @@
 
 - 💬 Ask me about **Web-Development , JavaScript, Next.js, React, Node**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ajaypandey21/**
+- 📫 How to reach me **https://www.linkedin.com/in/dkm414/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaypandey21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaypandey21/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ajaypandeyyy21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ajaypandeyyy21/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dkm414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaypandey21/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ajaypandeyyy21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_devesh_mishra_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
