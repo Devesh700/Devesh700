@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey21" /> </p>
 
 
-- 🔭 I’m currently working on **Cloud Computing and Deployment**
+- 🔭 I’m currently working on **Software Development and Deployment**
 
 - 💬 Ask me about **Web-Development , JavaScript, Next.js, React, Node**
 
